@@ -1,28 +1,50 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Th3g4ntl3m4n
-====================================================================================================================================
+# Hi there, I'm Jefferson (Th3g4ntl3m4n) 👋
+### Ethical Hacker | Pentester | Cybersecurity Specialist
 
-Ethical Hacker - Pentester
---------------------------
+I am a cybersecurity professional currently securing infrastructure in the **public sector**. With over **5 years of experience in Networking** and a solid background as a **PHP Developer**, I bridge the gap between building robust systems and breaking them to make them safer.
 
-I worked in networks for 5 years, developed in PHP and currently work in cybersecurity in the public sector. I like Blues and good whiskey
+---
 
-* 🌍  I'm based in Colombia
-* ✉️  You can contact me at [th3g4ntl3m4n@gmail.com](mailto:th3g4ntl3m4n@gmail.com)
-* 🚀  I'm currently working on [My Blog](http://www..guanes.org)
-* 🧠  I'm learning Python
+### 🛡️ Professional Focus
+- **Pentesting & Offensive Security:** Identifying vulnerabilities before the bad actors do.
+- **Network Security:** Leveraging my 5-year background to architect secure environments.
+- **Secure Coding:** Bringing developer insights into security audits (PHP/Laravel).
+- **Automation:** Currently mastering **Python** to automate security workflows and exploit development.
 
-### Skills
+---
 
+### 🛠️ Tech Stack & Skills
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Security & OS** | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) |
+| **Programming** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) |
+| **Development** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) |
+| **Creative** | ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white) ![Premiere](https://img.shields.io/badge/-Premiere_Pro-EA77FF?style=flat-square&logo=adobe-premiere-pro&logoColor=white) |
+
+---
+
+### 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=th3g4ntl3m4n&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=th3g4ntl3m4n&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
+---
 
-### Socials
+### ☕ Beyond the Terminal
+When I'm not auditing code or hardening networks, you'll find me:
+* 🎸 Listening to some deep **Blues**.
+* 🥃 Enjoying a glass of **good whiskey**.
+* ✍️ Writing about security on [My Blog](http://www.guanes.org).
 
-<p align="left"> <a href="https://discord.com/users/th3g4ntl3m4n" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/th3g4ntl3m4n" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/th3g4ntl3m4n" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/th3g4ntl3m4n" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+---
 
-### Badges
-
-<a href="https://github.com/th3g4ntl3m4n" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=th3g4ntl3m4n&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### 📫 Let's Connect
+<p align="left">
+  <a href="https://www.linkedin.com/in/jeffersonhernandezcorrea/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:th3g4ntl3m4n@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://discord.com/users/th3g4ntl3m4n" target="_blank"><img src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white" /></a>
+  <a href="https://www.x.com/th3g4ntl3m4n" target="_blank"><img src="https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white" /></a>
+</p>
