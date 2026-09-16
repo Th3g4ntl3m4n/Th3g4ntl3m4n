@@ -1,15 +1,19 @@
 # Hi there, I'm Jefferson (Th3g4ntl3m4n) 👋
-### Ethical Hacker | Pentester | Cybersecurity Specialist
+## Red Team Specialist | Offensive Security | Cybersecurity
 
-I am a cybersecurity professional currently securing infrastructure in the **public sector**. With over **5 years of experience in Networking** and a solid background as a **PHP Developer**, I bridge the gap between building robust systems and breaking them to make them safer.
+I am a cybersecurity professional focused on Red Team operations, penetration testing, and offensive security. With a background in networking, software development, and cybersecurity, I combine infrastructure and application security knowledge to identify vulnerabilities, emulate real-world attack techniques, and strengthen security defenses.
+
+I am particularly interested in the intersection of Offensive Security, Cloud Security, and Security Automation, continuously exploring new approaches to make security testing more effective and scalable.
 
 ---
 
 ### 🛡️ Professional Focus
-- **Pentesting & Offensive Security:** Identifying vulnerabilities before the bad actors do.
-- **Network Security:** Leveraging my 5-year background to architect secure environments.
-- **Secure Coding:** Bringing developer insights into security audits (PHP/Laravel).
-- **Automation:** Currently mastering **Python** to automate security workflows and exploit development.
+- **Red Team & Offensive Security**: Simulating adversary techniques to identify security weaknesses and validate defensive capabilities.
+- **Penetration Testing** : Assessing web applications, APIs, infrastructure, and cloud environments to uncover exploitable vulnerabilities.
+- **Network & Cloud Security**: Applying my networking background to assess infrastructure, identity, access controls, and cloud attack surfaces.
+- **Application Security**: Leveraging my development background in PHP/Laravel to understand applications from both the developer and attacker perspective.
+- **Security Automation**: Building Python-based tools and workflows to automate reconnaissance, security testing, analysis, and offensive security processes.
+- **Security AI**: Exploring LLMs, agentic workflows, and AI-driven automation for cybersecurity operations.
 
 ---
 
