@@ -29,13 +29,31 @@ I am particularly interested in the intersection of Offensive Security, Cloud Se
 | **💻 Development** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 ---
 
+---
+
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=th3g4ntl3m4n&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=th3g4ntl3m4n&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Th3g4ntl3m4n&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    height="180"
+    alt="GitHub Stats"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Th3g4ntl3m4n&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="Top Languages"
+  />
 </p>
 
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Th3g4ntl3m4n&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+---
 ---
 
 ### ☕ Beyond the Terminal
