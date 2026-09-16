@@ -19,12 +19,15 @@ I am particularly interested in the intersection of Offensive Security, Cloud Se
 
 ### 🛠️ Tech Stack & Skills
 
-| Category | Tools & Languages |
+| Category | Tools & Technologies |
 | :--- | :--- |
-| **Security & OS** | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) |
-| **Programming** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) |
-| **Development** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) |
-| **Creative** | ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white) ![Premiere](https://img.shields.io/badge/-Premiere_Pro-EA77FF?style=flat-square&logo=adobe-premiere-pro&logoColor=white) |
+| **🔴 Offensive Security** | ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white) ![Burp](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square) ![Nuclei](https://img.shields.io/badge/Nuclei-1E90FF?style=flat-square) ![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white) |
+| **🔎 Recon & Enumeration** | ![Amass](https://img.shields.io/badge/Amass-5C2D91?style=flat-square) ![Subfinder](https://img.shields.io/badge/Subfinder-00ADD8?style=flat-square) ![Dirsearch](https://img.shields.io/badge/Dirsearch-333333?style=flat-square) ![WPScan](https://img.shields.io/badge/WPScan-21759B?style=flat-square) |
+| **🌐 Web & API Security** | ![Burp](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white) ![ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=flat-square) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) |
+| **🏢 Active Directory** | ![Impacket](https://img.shields.io/badge/Impacket-333333?style=flat-square) ![Kerbrute](https://img.shields.io/badge/Kerbrute-8B0000?style=flat-square) ![SMB](https://img.shields.io/badge/SMB-0078D4?style=flat-square) ![Kerberos](https://img.shields.io/badge/Kerberos-5E5E5E?style=flat-square) |
+| **☁️ Cloud Security** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| **🤖 AI & Security Automation** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square) |
+| **💻 Development** | ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
 ---
 
