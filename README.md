@@ -34,12 +34,13 @@ I am particularly interested in the intersection of Offensive Security, Cloud Se
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Th3g4ntl3m4n&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Th3g4ntl3m4n&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
     height="180"
     alt="GitHub Stats"
   />
-  <img 
+
+  <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Th3g4ntl3m4n&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
     height="180"
     alt="Top Languages"
@@ -47,12 +48,12 @@ I am particularly interested in the intersection of Offensive Security, Cloud Se
 </p>
 
 <p align="center">
-  <img 
+  <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=Th3g4ntl3m4n&theme=tokyonight&hide_border=true"
+    height="180"
     alt="GitHub Streak"
   />
 </p>
-
 
 ---
 
